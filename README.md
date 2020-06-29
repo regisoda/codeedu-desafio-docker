@@ -1,3 +1,6 @@
 ## Docker Hub
 
-https://hub.docker.com/r/regisoda/codeeducation/tags
+docker pull regisoda/codeeducation:latest
+
+docker run regisoda/codeeducation:latest
+
